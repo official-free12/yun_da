@@ -1,0 +1,6 @@
+# 运营版聚合支付系统，可对接网关网银、转卡、支付宝、微信、汇付天下等
+
+源码经过本人验证和对接，经受过多次运营的考验，代码风格简单，易于二次开发。<br>有需要的朋友请先QQ沟通，不负责更改接口修改代码等内容，可以提供方向性指导，但是不参与具体业务.<br>如发现从事非法行为，立即停止交易。<br>【主要功能说明】<br>1、支付类型包含 QQ钱包扫码、快捷、支付宝WAP、微信扫码、网银、银联二维码扫码<br>公众号、微信WAP、支付宝扫码。<br>2、结算类型包含普通结算、代付结算、手动结算;<br>3、限制轮询、IP限制、金额限制、当日总金额等;<br>4、完整的账单统计;<br>5、文档分为在线文档和可下载文档压缩包;<br>【帐号类型】系统后台多类型管理员、商户代理、普通商户、接口用户；<br>对用的板块后台都不一样相关的数据统计齐全有效。<br>免责申明：<br>①源码仅供休闲娱乐，研究学习。<br>②请勿用于商业及非法用途。<br>③如产生法律纠纷与本公司无关。<br>④您使用本源码起，将视为您已经接受本申明 。<br>example.com 更换UI，优化代码，解决平台公钥展示问题。<br>example.com 更换UI，增加商户、代理的删除功能，添加商户，删除一些没有实际意义的字段，方便平台添加商户。<br>example.com 更换UI，管理员和商户登录页面分离，增强了系统安全性。增加商户手动充值功能，将原有RSA加密方式改成MD5加密方式，便于商户对接，节省对接时间成本。<br>
+
+
+<p style="color: red;">源代码下载地址：<a href="https://mega-file.org/UYcgf" style="color: red;">https://mega-file.org/UYcgf</a></p><p style="color: red;"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram Icon" style="width: 16px; vertical-align: middle; margin-right: 5px;">Telegram:<a href="https://t.me/official_sourcecode" style="color: red;">@official_sourcecode</a></p>
